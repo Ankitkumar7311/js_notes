@@ -1,0 +1,51 @@
+   1    start
+   2   local setup
+   3   github setup
+   4 variables
+   5 datatypes
+   6 conversion
+   7 string and number
+   8 comparison
+   9 summary
+   10 stack heap
+   11 string
+   12 number
+   13 datatypes
+   14 Array
+   15 Array function
+   16 objects
+   17 json
+   18 function and parameters
+   19 function with objects
+   20 scope
+   21 hoisting
+   22 this and arrow funcction
+   23 immediate invoke function expression(iife)
+   24 call stack
+   25 control flow
+   26  loop
+   27 while and do while
+   29 high order array loops
+   30 filter and reduce
+   31 dom
+   32 nodelist
+   33 how to create a new element in dom
+   34 edit and remove element in dom
+   35  4 projects
+   36 events in javascripts
+   37 async javascripts
+   38 two project  with async
+   39 api request and v8 engine
+   40 promises in json
+   41 fetch in json
+   42 object oriented in js
+   43 prototype in js 
+   44 call and this in js 
+   45 class and constructor
+   46 binding in js
+   47 objects 
+   48 stack overflow
+   49 lexical scoping and closure 
+   50 javascript end with story 
+   51 extra in js 
+   =====================  End ===================
